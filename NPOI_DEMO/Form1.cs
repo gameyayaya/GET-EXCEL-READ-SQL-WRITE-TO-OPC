@@ -1,7 +1,7 @@
 ﻿// pull test desu
 // change
 // 要加参考 OPCDAAUTO
-
+// yoyoyo
 
 // AsyncWrite这个方法有几个坑 , 简单的说 他就是吃 两个array , 把array的东西更新到 OPC server那边
 // 首先他array处理是base 1的 , 然后c#的toarray生出来的是base 0 , 直接刷进去会有bug , 所以toarray弄出来的要自己前面多塞一个 , 可是这样length会多一个 , 记得要减掉
