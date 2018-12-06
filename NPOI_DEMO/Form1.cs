@@ -1,4 +1,6 @@
-﻿// 要加参考 OPCDAAUTO
+﻿// pull test desu
+
+// 要加参考 OPCDAAUTO
 
 
 // AsyncWrite这个方法有几个坑 , 简单的说 他就是吃 两个array , 把array的东西更新到 OPC server那边

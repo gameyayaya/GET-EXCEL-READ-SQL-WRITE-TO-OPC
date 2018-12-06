@@ -32,3 +32,21 @@ D:\code\c#\OPC\GET EXCEL READ SQL WRITE TO OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csp
 D:\code\c#\OPC\GET EXCEL READ SQL WRITE TO OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csproj.CopyComplete
 D:\code\c#\OPC\GET EXCEL READ SQL WRITE TO OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.exe
 D:\code\c#\OPC\GET EXCEL READ SQL WRITE TO OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.pdb
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI_DEMO.exe.config
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI_DEMO.exe
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI_DEMO.pdb
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI.OOXML.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI.OpenXml4Net.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csprojAssemblyReference.cache
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\Interop.OPCAutomation.dll
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csproj.ResolveComReference.cache
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.Form1.resources
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.Properties.Resources.resources
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csproj.GenerateResource.cache
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csproj.CoreCompileInputs.cache
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.csproj.CopyComplete
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.exe
+D:\code\c#\OPC\GET-Excel-Read-SQL-to-OPC\NPOI_DEMO\obj\Debug\NPOI_DEMO.pdb
